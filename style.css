@@ -87,7 +87,6 @@ button {
     padding: 20px 40px;
     display: flex;
     flex-direction: column;
-    align-content: center;
 }
 
 h2 {
@@ -111,4 +110,27 @@ h2 {
 .modelwrap, .hoodwrap, .equipmentwrap, .detailingwrap{
     display: flex;
     flex-direction: column;
+}
+
+/* Quote Section */ 
+
+.quote {
+    background-color: #228ce9;
+    font-size: 30px;
+    padding: 30px
+}
+
+/* Call to Action */ 
+
+.action {
+    background-color: #810000;
+    color: #eeebdd;
+}
+
+/* Footer */
+
+.footer {
+    background-color: black;
+    color: white;
+    padding: 30px;
 }
