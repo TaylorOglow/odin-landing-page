@@ -84,5 +84,31 @@ button {
 
 .quad {
     background-color: #eeebdd;
-    padding: 80px 40px;
+    padding: 20px 40px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px;
+    font-size: 30px;
+}
+
+.comprehensiveimageselector p {
+    width: 150px;
+}
+
+.comprehensiveimageselector img {
+    border: #810000;
+    border-radius: 5px;
+    border-style: outset;
+    border-width: 5px;
+}
+
+.modelwrap, .hoodwrap, .equipmentwrap, .detailingwrap{
+    display: flex;
+    flex-direction: column;
 }
