@@ -115,9 +115,9 @@ h2 {
 /* Quote Section */ 
 
 .quote {
-    background-color: #228ce9;
+    background-image: linear-gradient(#eeebdd, #810000);
     font-size: 30px;
-    padding: 30px
+    padding: 50px;
 }
 
 /* Call to Action */ 
