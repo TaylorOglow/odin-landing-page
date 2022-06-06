@@ -1,6 +1,12 @@
 
 body {
     font-family: sans-serif;
+    height: 100vh;
+    margin: 0;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
 }
 
 .header {
@@ -9,18 +15,19 @@ body {
     padding: 20px;
 }
 
+
 .headertext {
     font-family: "Aladin", sans-serif;
     font-size: 25px;
-}
-
-.headerlinks {
     display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-    align-content: flex-start;
 }
 
+.headerbarwrapper {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 150px;
+    padding-right: 150px;
+}
 
 a {
     text-decoration: none;
@@ -38,4 +45,13 @@ a:hover {
 
 ul {
     list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 24px
+}
+
+h1 {
+    padding-top: 50px;
+    padding-left: 150px;
 }
