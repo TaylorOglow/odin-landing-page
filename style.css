@@ -9,6 +9,8 @@ body {
     flex-direction: column;
 }
 
+/* Header Section */
+
 .header {
     background-color: #810000;
     color: #eeebdd;
@@ -76,4 +78,11 @@ button {
     padding: 7px 21px;
     color: #1b1717;
     background-color: #eeebdd;
+}
+
+/* Quad Section */ 
+
+.quad {
+    background-color: #eeebdd;
+    padding: 80px 40px;
 }
