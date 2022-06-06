@@ -54,4 +54,26 @@ ul {
 h1 {
     padding-top: 50px;
     padding-left: 150px;
+    font-size: 40px;
+    width:350px;
+}
+
+.photowrapper {
+    display: flex;
+}
+
+.tancar { 
+    padding-top: 50px;
+    padding-left: 200px;
+}
+
+.blurbwrapper { 
+    width: 350px;
+    padding-left: 150px;
+}
+
+button { 
+    padding: 7px 21px;
+    color: #1b1717;
+    background-color: #eeebdd;
 }
