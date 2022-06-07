@@ -130,8 +130,14 @@ h2 {
 .quote {
     background-image: linear-gradient(#eeebdd, #810000);
     font-size: 30px;
+    font-weight: 700;
     padding: 50px;
+    color: #eeebdd;
+    -webkit-text-stroke-color:#810000;
+    -webkit-text-stroke-width: 1.5px;
 }
+
+    /* Learn how to outline text /*
 
 /* Call to Action */ 
 
