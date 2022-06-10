@@ -1,4 +1,4 @@
-# odin-landing-page
+# James' Hot Rod Garage
 
 [![GitHub stars](https://img.shields.io/github/stars/TaylorOglow/odin-landing-page)](https://github.com/TaylorOglow/odin-landing-page/stargazers)
 ![Lines of code](https://img.shields.io/tokei/lines/github/TaylorOglow/odin-landing-page)
@@ -15,8 +15,8 @@ Taylor Oglow on 06/06/2022 as part of *The Odin Project*
 ### Preview: 
 ![alt text](/var/folders/fd/z9cqc2_s3t7dhbwxrd5yz5cm0000gn/T/TemporaryItems/NSIRD_screencaptureui_bTCWhB/Screen Shot 2022-06-10 at 11.53.45.png "Preview")
 
-### Project Title: 
-James' Hot Rod Garage
+### Odin Project Title: 
+Landing Page - [click here](https://www.theodinproject.com/lessons/foundations-landing-page)
 
 ### Project Description: 
 As part of *The Odin Project's* curriculum, I created the fictional James' Hot Rod Garage to practice my front-end skills. Specifically, I wanted to further my new understanding of flexbox and alignment. I decided to create my own fictional company so that I could practice making design decisions. 
