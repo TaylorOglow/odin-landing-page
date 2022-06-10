@@ -32,21 +32,14 @@ body {
     padding-right: 150px;
 }
 
-a {
+.header a {
     text-decoration: none;
     color: #eeebdd;
 }
-
-/* This currently applies to all anchor tags. I need to apply to a single set of anchor tags */
-
-a:hover {
+.header a:hover {
     color: #1b1717;
 }
-
-/* This currently applies to all anchor tags. I need to apply to a single set of anchor tags */
-
-
-ul {
+.header ul {
     list-style: none;
     display: flex;
     margin: 0;
@@ -84,6 +77,14 @@ button {
 }
 
 /* Quad Section */ 
+
+.quad ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 24px
+}
 
 .quad {
     background-color: #eeebdd;
@@ -140,6 +141,8 @@ h2 {
     -webkit-text-stroke-width: 1.5px;
     text-align: center;
 }
+
+/* Consider Background image of black tire texture instead of weird gradient */ 
 
 
 .quote p {
