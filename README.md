@@ -1,11 +1,8 @@
 # James' Hot Rod Garage
 
-[![GitHub stars](https://img.shields.io/github/stars/TaylorOglow/odin-landing-page)](https://github.com/TaylorOglow/odin-landing-page/stargazers)
 ![Lines of code](https://img.shields.io/tokei/lines/github/TaylorOglow/odin-landing-page)
 ![GitHub issues](https://img.shields.io/github/issues-raw/TaylorOglow/odin-landing-page)
 ![GitHub Repo stars](https://img.shields.io/github/stars/TaylorOglow/odin-landing-page?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/TaylorOglow?style=social)
-![GitHub followers](https://img.shields.io/github/followers/TaylorOglow?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/TaylorOglow/odin-landing-page?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/TaylorOglow/odin-landing-page)
 
