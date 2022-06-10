@@ -1,5 +1,14 @@
 # odin-landing-page
 
+[![GitHub stars](https://img.shields.io/github/stars/TaylorOglow/odin-landing-page)](https://github.com/TaylorOglow/odin-landing-page/stargazers)
+![Lines of code](https://img.shields.io/tokei/lines/github/TaylorOglow/odin-landing-page)
+![GitHub issues](https://img.shields.io/github/issues-raw/TaylorOglow/odin-landing-page)
+![GitHub Repo stars](https://img.shields.io/github/stars/TaylorOglow/odin-landing-page?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/TaylorOglow?style=social)
+![GitHub followers](https://img.shields.io/github/followers/TaylorOglow?style=social)
+![GitHub forks](https://img.shields.io/github/forks/TaylorOglow/odin-landing-page?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/TaylorOglow/odin-landing-page)
+
 ### Created by: 
 Taylor Oglow on 06/06/2022 as part of *The Odin Project*
 
@@ -21,15 +30,7 @@ As part of *The Odin Project's* curriculum, I created the fictional James' Hot R
 ### Photo credits: 
 (from (pexels.com)): mike b, cottonbro, erik mclean, ksenia chernaya, style-stance
 
-### Stats: 
-[![GitHub stars](https://img.shields.io/github/stars/TaylorOglow/odin-landing-page)](https://github.com/TaylorOglow/odin-landing-page/stargazers)
-![Lines of code](https://img.shields.io/tokei/lines/github/TaylorOglow/odin-landing-page)
-![GitHub issues](https://img.shields.io/github/issues-raw/TaylorOglow/odin-landing-page)
-![GitHub Repo stars](https://img.shields.io/github/stars/TaylorOglow/odin-landing-page?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/TaylorOglow?style=social)
-![GitHub followers](https://img.shields.io/github/followers/TaylorOglow?style=social)
-![GitHub forks](https://img.shields.io/github/forks/TaylorOglow/odin-landing-page?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/TaylorOglow/odin-landing-page)
+-------------------------------
 
 Copyright [2022] [Taylor Oglow]
 
