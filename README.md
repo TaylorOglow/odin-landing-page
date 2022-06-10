@@ -26,6 +26,7 @@ As part of *The Odin Project's* curriculum, I created the fictional James' Hot R
  * Fix poor coding practices. No more messy HTML and CSS.
  * Terminate the gradient background
  * Make adaptive to phone screen layout 
+ * Fix absolute positioning in "Call to Action" section
 
 ### Credits: 
 Photos from [Pexels](pexels.com): mike b, cottonbro, erik mclean, ksenia chernaya, style-stance.
