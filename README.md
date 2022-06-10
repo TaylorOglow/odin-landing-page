@@ -20,12 +20,16 @@ As part of *The Odin Project's* curriculum, I created the fictional James' Hot R
 
 ### Future Improvements:
  Since this is my first landing page, there is many room for improvements. 
- * The initial viewport should show a cleaner display.
+ * Implement cleaner display for initial viewport.
  * Complete quote section alignment without the use of paddign 
  * Explore Figma, and incorporate the software it my creation of future projects alongside better design practices. 
+ * Fix poor coding practices. No more messy HTML and CSS.
+ * Terminate the gradient background
+ * Make adaptive to phone screen layout 
 
-### Photo credits: 
-(from (pexels.com)): mike b, cottonbro, erik mclean, ksenia chernaya, style-stance
+### Credits: 
+Photos from (pexels.com): mike b, cottonbro, erik mclean, ksenia chernaya, style-stance
+Footer logos from (github.com/FortAwesome/Font-Awesome/)
 
 -------------------------------
 
