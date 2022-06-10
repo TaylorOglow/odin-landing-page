@@ -28,8 +28,9 @@ As part of *The Odin Project's* curriculum, I created the fictional James' Hot R
  * Make adaptive to phone screen layout 
 
 ### Credits: 
-Photos from [Pexels](pexels.com): mike b, cottonbro, erik mclean, ksenia chernaya, style-stance
-Footer logos from [Font-Awesome](github.com/FortAwesome/Font-Awesome/)
+Photos from [Pexels](pexels.com): mike b, cottonbro, erik mclean, ksenia chernaya, style-stance.
+
+Footer logos from [Font-Awesome](github.com/FortAwesome/Font-Awesome/).
 
 -------------------------------
 
