@@ -28,7 +28,7 @@ body {
 .headerbarwrapper {
     display: flex;
     justify-content: space-between;
-    padding-left: 150px;
+    padding-left: 200px;
     padding-right: 150px;
 }
 
@@ -60,25 +60,27 @@ h1 {
 }
 
 .tancar { 
-    background-color: green;
     float: right;
+    padding-left: 200px;
+    padding-top: 20px;
 }
 
 .blurbwrapper { 
     width: 350px;
-    padding-left: 150px;
+    padding-left: 200px;
 }
 
 button { 
     padding: 7px 21px;
     color: #1b1717;
     background-color: #eeebdd;
+    border-radius: 8px;
 }
 
 .blurbcarwrapper {
     display: flex;
     flex-direction: row;
-    background-color: green;
+    padding: 80px 0px;
 }
 
 /* Quad Section */ 
@@ -131,10 +133,16 @@ h2 {
     background-image: linear-gradient(#eeebdd, #810000);
     font-size: 30px;
     font-weight: 700;
-    padding: 50px;
+    padding: 70px;
     color: #eeebdd;
     -webkit-text-stroke-color:#810000;
     -webkit-text-stroke-width: 1.5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote p {
+    width: 600px;
 }
 
     /* Learn how to outline text /*
