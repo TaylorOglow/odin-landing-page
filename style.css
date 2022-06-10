@@ -155,23 +155,38 @@ h2 {
 
 .action {
     background-color: #810000;
-    color: #eeebdd;
+    color: black;
     padding: 60px 30px;
 }
 
 .actioncontainer {
-    max-width: 1000px; 
-    background-color: black;
+    max-width: 900px; 
+    background-color: #eeebdd;
     margin: auto; 
     padding: 40px 30px;
+    border-radius: 5px;
 }
 
 .action button {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    float: right;
+    position:absolute;
+    transition: .5s ease;
+    top: 184.5%;
+    left: 66%;
 }
+
+.action h3 {
+    position:absolute;
+    transition: .5s ease;
+    top: 180%;
+    left: 23.5%;
+}
+
+.action p {
+    padding-left: 68px;
+    padding-top: 10px; 
+}
+
+ 
 /* Footer */
 
 .container {
