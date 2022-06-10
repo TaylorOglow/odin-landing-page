@@ -71,7 +71,7 @@ h1 {
 }
 
 button { 
-    padding: 7px 21px;
+    padding: 10px 24px;
     color: #1b1717;
     background-color: #eeebdd;
     border-radius: 8px;
@@ -134,15 +134,21 @@ h2 {
     font-size: 30px;
     font-weight: 700;
     padding: 70px;
+    padding-left: 400px;
     color: #eeebdd;
     -webkit-text-stroke-color:#810000;
     -webkit-text-stroke-width: 1.5px;
-    display: flex;
-    flex-direction: column;
+    text-align: center;
 }
+
 
 .quote p {
     width: 600px;
+}
+
+.quote em {
+    text-align: center;
+    padding-left: 50px;
 }
 
     /* Learn how to outline text /*
