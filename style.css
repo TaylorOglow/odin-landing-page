@@ -156,10 +156,21 @@ h2 {
 .action {
     background-color: #810000;
     color: #eeebdd;
+    padding: 60px 30px;
 }
 
-.actionwrapper {
+.actioncontainer {
+    max-width: 1000px; 
+    background-color: black;
+    margin: auto; 
+    padding: 40px 30px;
+}
+
+.action button {
     display: flex;
+    align-items: center;
+    justify-content: center;
+    float: right;
 }
 /* Footer */
 
