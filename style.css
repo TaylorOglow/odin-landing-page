@@ -160,6 +160,9 @@ h2 {
     color: #eeebdd;
 }
 
+.actionwrapper {
+    display: flex;
+}
 /* Footer */
 
 .footer {
