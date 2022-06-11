@@ -14,7 +14,7 @@ Taylor Oglow on 06/06/2022 as part of *The Odin Project*
 ![alt text](/reference/preview.png?raw=true)
 
 ### Odin Project Title: 
-Landing Page - [click here](https://www.theodinproject.com/lessons/foundations-landing-page)
+Landing Page - [learn more](https://www.theodinproject.com/lessons/foundations-landing-page)
 
 ### Project Description: 
 As part of *The Odin Project's* curriculum, I created the fictional James' Hot Rod Garage to practice my front-end skills. Specifically, I wanted to further my new understanding of flexbox and alignment. I decided to create my own fictional company so that I could practice making design decisions. 
@@ -30,9 +30,9 @@ As part of *The Odin Project's* curriculum, I created the fictional James' Hot R
  * Fix absolute positioning in "Call to Action" section
 
 ### Credits: 
-Photos from [Pexels](pexels.com): mike b, cottonbro, erik mclean, ksenia chernaya, style-stance.
+Photos from [Pexels](https://www.pexels.com/?onboarding=skipped): mike b, cottonbro, erik mclean, ksenia chernaya, style-stance.
 
-Footer logos from [Font-Awesome](github.com/FortAwesome/Font-Awesome/).
+Footer logos from [Font-Awesome](/FortAwesome/Font-Awesome/).
 
 -------------------------------
 
