@@ -24,7 +24,6 @@ body {
     display: flex;
 }
 
-/* perhaps include different header background color. Same as footer */
 .headerbarwrapper {
     display: flex;
     justify-content: space-between;
@@ -153,11 +152,6 @@ h2 {
     opacity: 25%; 
     background-image: url("_images/pile-1868894.jpg");
   }
-
-
-/* Consider Background image of black tire texture instead of weird gradient */ 
-
-
 .quote p {
     width: 600px;
 }
@@ -207,17 +201,18 @@ h2 {
 
 .container {
     max-width: 1170px;
-    background-color: black;
     margin: auto;
 }
 .row {
     display: flex;
-    flex-wrap: wrap;
 }
 .footer {
     background-color: #1b1717;
     color: white;
     padding: 70px 0;
+}
+.footer ul {
+    list-style: none;
 }
 
 .footer-col {
@@ -279,6 +274,17 @@ h2 {
 .footer-col .social-links a:hover 
 {
     color: #24262b;
+}
+ /* Copyright */
+.copyright{
+    padding-top: 60px;
+}
+.copyright i {
+    color: #EF3340;
+}
+.copyrightcontainer {
+    text-align: center;
+    color: #bbbbbb;
 }
 
 
