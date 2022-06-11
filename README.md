@@ -1,3 +1,4 @@
+###### NEEDS TO BE EDITED FOR LINK ISSUES 
 # James' Hot Rod Garage
 
 ![Lines of code](https://img.shields.io/tokei/lines/github/TaylorOglow/odin-landing-page)
