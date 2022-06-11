@@ -11,7 +11,7 @@
 Taylor Oglow on 06/06/2022 as part of *The Odin Project*
 
 ### Preview: 
-![alt text](./https://github.com/TaylorOglow/odin-landing-page/blob/main/reference/practice.png?raw=true)
+![alt text](../https://github.com/TaylorOglow/odin-landing-page/blob/main/reference/practice.png?raw=true)
 
 ### Odin Project Title: 
 Landing Page - [click here](https://www.theodinproject.com/lessons/foundations-landing-page)
