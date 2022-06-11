@@ -46,7 +46,7 @@ body {
     gap: 24px
 }
 
-h1 {
+.header h1 {
     font-size: 40px;
     width:350px;
 }
@@ -92,7 +92,7 @@ button {
     flex-direction: column;
 }
 
-h2 {
+.quad h2 {
     display: flex;
     justify-content: center;
     padding: 5px 0px;
@@ -210,21 +210,26 @@ h2 {
     background-color: #1b1717;
     color: white;
     padding: 70px 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
 .footer ul {
     list-style: none;
+    text-align: left;
 }
 
 .footer-col {
     width: 25%;
     padding: 0px 15px;
+    margin-left: 40px;
+    font-weight: 500 ;
 }
 
 .footer-col h4 {
     font-size: 18px;
     color: #ffffff;
     text-transform: capitalize;
-    margin-bottom: 35px;
+    margin-bottom: 30px;
     font-weight: 500;
     position: relative;
 }
@@ -254,6 +259,7 @@ h2 {
     color: #bbbbbb; 
     display: block; 
     transition: all 0.3s ease; 
+    -webkit-transform: translateX(-40px); /* 40px to left */
 }
 .footer-col ul li a:hover{
     color: #ffffff;
