@@ -32,7 +32,7 @@ As part of *The Odin Project's* curriculum, I created the fictional James' Hot R
 ### Credits: 
 Photos from [Pexels](https://www.pexels.com/?onboarding=skipped): mike b, cottonbro, erik mclean, ksenia chernaya, style-stance.
 
-Footer logos from [Font-Awesome](/FortAwesome/Font-Awesome/).
+Footer logos from [Font-Awesome](https://github.com/FortAwesome/Font-Awesome/).
 
 -------------------------------
 
